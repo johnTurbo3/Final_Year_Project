@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto
+END
+ciphertext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/ciphertext.cpp
+END
+equalitydisclog_zpschnorr.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/equalitydisclog_zpschnorr.h
+END
+keygenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/keygenerator.cpp
+END
+knowdisclog_zpschnorr.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/knowdisclog_zpschnorr.h
+END
+group.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/group.h
+END
+elgamal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/elgamal.cpp
+END
+ciphertext.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/ciphertext.h
+END
+keygenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/keygenerator.h
+END
+keypair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/keypair.cpp
+END
+elgamal.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/elgamal.h
+END
+keypair.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/keypair.h
+END
+equalitydisclog_zpschnorr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/equalitydisclog_zpschnorr.cpp
+END
+knowdisclog_zpschnorr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/knowdisclog_zpschnorr.cpp
+END
+group.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/crypto/group.cpp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sumprodalg/impl
+END
+sum_prod_alg_abstract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sumprodalg/impl/sum_prod_alg_abstract.cpp
+END
+sum_prod_alg_gdl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sumprodalg/impl/sum_prod_alg_gdl.cpp
+END
+sum_prod_alg_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sumprodalg/impl/sum_prod_alg_abstract.h
+END
+sum_prod_alg_trad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sumprodalg/impl/sum_prod_alg_trad.cpp
+END
+sum_prod_alg_gdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sumprodalg/impl/sum_prod_alg_gdl.h
+END
+sum_prod_alg_trad.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sumprodalg/impl/sum_prod_alg_trad.h
+END

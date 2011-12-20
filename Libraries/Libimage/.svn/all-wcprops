@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/image.cpp
+END
+imagefile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/imagefile.cpp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/.project
+END
+filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter.cpp
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/.cproject
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/image.h
+END
+imagefile.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/imagefile.h
+END
+wavelet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/wavelet.cpp
+END
+LibImage.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/LibImage.vcproj
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/Makefile
+END
+wavelet.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/wavelet.h
+END

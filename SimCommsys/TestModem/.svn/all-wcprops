@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestModem
+END
+testmodem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestModem/testmodem.cpp
+END
+TestModem.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestModem/TestModem.vcproj
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestModem/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestModem/.cproject
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestModem/Makefile
+END

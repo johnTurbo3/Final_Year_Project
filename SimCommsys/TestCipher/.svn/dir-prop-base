@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 47
+[Dd]ebug
+[Rr]elease
+[Pp]rofile
+*.vcproj.*.user
+
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSencode
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSencode/.project
+END
+csencode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSencode/csencode.cpp
+END
+CSencode.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSencode/CSencode.vcproj
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSencode/.cproject
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSencode/Makefile
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver
+END
+Stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/Stdafx.h
+END
+AnnealInterleaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/AnnealInterleaver.cpp
+END
+AnnealInterleaver.aps
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/AnnealInterleaver.aps
+END
+AnnealInterleaver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/AnnealInterleaver.vcproj
+END
+AnnealInterleaver.rc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/AnnealInterleaver.rc
+END
+AnnealInterleaver.clw
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/AnnealInterleaver.clw
+END
+AnnealInterleaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/AnnealInterleaver.h
+END
+AnnealInterleaverDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/AnnealInterleaverDlg.cpp
+END
+Stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/Stdafx.cpp
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/Readme.txt
+END
+AnnealInterleaverDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/AnnealInterleaverDlg.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Windows/AnnealInterleaver/resource.h
+END

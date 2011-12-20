@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment
+END
+experiment_binomial.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/experiment_binomial.h
+END
+experiment_normal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/experiment_normal.cpp
+END
+experiment_binomial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/experiment_binomial.cpp
+END
+experiment_normal.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/experiment_normal.h
+END

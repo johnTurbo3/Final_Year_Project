@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSfullcycle
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSfullcycle/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSfullcycle/.cproject
+END
+csfullcycle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSfullcycle/csfullcycle.cpp
+END
+CSfullcycle.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSfullcycle/CSfullcycle.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/CSfullcycle/Makefile
+END

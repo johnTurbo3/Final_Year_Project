@@ -1,0 +1,112 @@
+10
+
+dir
+6468
+https://guinevere.res.um.edu.mt/svn/shared/Programming/branches/flynn/SimCommsys
+https://guinevere.res.um.edu.mt/svn/shared
+
+
+
+2011-11-18T17:58:59.819704Z
+6264
+jabriffa
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+aa2a2d6a-afc8-40aa-88c7-936c4b2405b3
+
+SSextract
+dir
+
+TestBSID
+dir
+
+SSembed
+dir
+
+TestDMinner2D
+dir
+
+TestLDPC
+dir
+
+CSencode
+dir
+
+TestFSM
+dir
+
+TestQSC
+dir
+
+CStransmit
+dir
+
+TestWMdemodulation
+dir
+
+ShowErrorEvent
+dir
+
+TestGF
+dir
+
+TestWatermark
+dir
+
+Canonicalize
+dir
+
+TestLinearity
+dir
+
+MakeSRandom
+dir
+
+TestGRSCC
+dir
+
+TestModem
+dir
+
+SimCommsys
+dir
+
+IMprocess
+dir
+
+CompareLists
+dir
+
+TestConfig
+dir
+
+SPECturbo
+dir
+
+TestBSID2D
+dir
+
+CSfullcycle
+dir
+
+CSdecode
+dir
+
+TestCipher
+dir
+
+TestCUDA
+dir
+

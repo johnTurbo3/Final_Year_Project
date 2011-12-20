@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm
+END
+commsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/commsys.h
+END
+commsys_fulliter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/commsys_fulliter.cpp
+END
+modem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem.cpp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/.project
+END
+montecarlo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/montecarlo.cpp
+END
+sigspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sigspace.h
+END
+LibComm.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/LibComm.vcproj
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/crypt.h
+END
+resultsfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/resultsfile.h
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/.cproject
+END
+commsys_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/commsys_stream.h
+END
+commsys_iterative.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/commsys_iterative.h
+END
+embedder.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder.h
+END
+blockmodem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/blockmodem.cpp
+END
+channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel.h
+END
+serializer_libcomm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/serializer_libcomm.h
+END
+sha.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sha.h
+END
+bcjr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/bcjr.cpp
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec.h
+END
+blockembedder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/blockembedder.cpp
+END
+fsm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/fsm.cpp
+END
+interleaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver.h
+END
+annealer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/annealer.cpp
+END
+experiment.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment.h
+END
+rc4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/rc4.cpp
+END
+digest32.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/digest32.h
+END
+mapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/md5.h
+END
+commsys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/commsys.cpp
+END
+stegosystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/stegosystem.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/Makefile
+END
+sigspace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sigspace.cpp
+END
+blockprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/blockprocess.h
+END
+hard_decision.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/hard_decision.h
+END
+crypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/crypt.cpp
+END
+resultsfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/resultsfile.cpp
+END
+commsys_stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/commsys_stream.cpp
+END
+commsys_fulliter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/commsys_fulliter.h
+END
+commsys_iterative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/commsys_iterative.cpp
+END
+modem.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem.h
+END
+embedder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder.cpp
+END
+channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel.cpp
+END
+montecarlo.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/montecarlo.h
+END
+sha.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/sha.cpp
+END
+experiment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment.cpp
+END
+blockmodem.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/blockmodem.h
+END
+safe_bcjr.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/safe_bcjr.h
+END
+mapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper.cpp
+END
+digest32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/digest32.cpp
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/md5.cpp
+END
+bcjr.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/bcjr.h
+END
+instrumented.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/instrumented.h
+END
+stegosystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/stegosystem.cpp
+END
+blockembedder.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/blockembedder.h
+END
+blockprocess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/blockprocess.cpp
+END
+annealer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/annealer.h
+END
+fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/fsm.h
+END
+parametric.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/parametric.h
+END
+rc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/rc4.h
+END

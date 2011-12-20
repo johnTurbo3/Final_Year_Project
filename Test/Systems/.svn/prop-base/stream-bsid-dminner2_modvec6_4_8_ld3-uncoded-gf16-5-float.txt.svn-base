@@ -1,0 +1,19 @@
+K 13
+svn:eol-style
+V 2
+LF
+K 12
+svn:keywords
+V 23
+Id Revision Author Date
+K 13
+svn:mergeinfo
+V 300
+/Programming/branches/jab/Test/Systems/bsid-dminner2_4_8_h-uncoded-gf16-750.txt:3739-3762,3768
+/Programming/branches/jab-framesync/Test/Systems/stream-bsid-dminner2_modvec6_4_8_ld3-uncoded-gf16-5-float.txt:6262
+/Programming/branches/swe/Test/Systems/bsid-dminner2_4_8_h-uncoded-gf16-750.txt:3403-3749
+K 13
+svn:mime-type
+V 28
+text/plain; charset=us-ascii
+END

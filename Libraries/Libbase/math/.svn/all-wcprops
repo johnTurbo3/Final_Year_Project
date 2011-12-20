@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/math
+END
+gmp_bigint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/math/gmp_bigint.cpp
+END
+gmp_bigint.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/math/gmp_bigint.h
+END

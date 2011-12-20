@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/named
+END
+stream_lut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/named/stream_lut.cpp
+END
+vale96int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/named/vale96int.cpp
+END
+file_lut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/named/file_lut.cpp
+END
+stream_lut.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/named/stream_lut.h
+END
+vale96int.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/named/vale96int.h
+END
+file_lut.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/named/file_lut.h
+END

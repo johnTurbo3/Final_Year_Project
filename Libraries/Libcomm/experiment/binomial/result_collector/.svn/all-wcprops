@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector
+END
+commsys_errors_levenshtein.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_errors_levenshtein.h
+END
+commsys_prof_burst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_prof_burst.cpp
+END
+commsys_prof_pos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_prof_pos.cpp
+END
+commsys_errorrates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_errorrates.cpp
+END
+commsys_hist_symerr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_hist_symerr.cpp
+END
+commsys_prof_burst.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_prof_burst.h
+END
+commsys_prof_pos.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_prof_pos.h
+END
+commsys_errorrates.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_errorrates.h
+END
+commsys_hist_symerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_hist_symerr.h
+END
+commsys_prof_sym.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_prof_sym.cpp
+END
+commsys_errors_levenshtein.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_errors_levenshtein.cpp
+END
+commsys_prof_sym.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/result_collector/commsys_prof_sym.h
+END

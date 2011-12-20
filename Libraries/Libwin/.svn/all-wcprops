@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin
+END
+Stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/Stdafx.h
+END
+RoutedIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/RoutedIO.h
+END
+ArchiveStreamBuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/ArchiveStreamBuf.h
+END
+FolderDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/FolderDialog.h
+END
+Psplugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/Psplugin.cpp
+END
+WorkerThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/WorkerThread.cpp
+END
+ScriptingKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/ScriptingKeys.h
+END
+LibWin.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/LibWin.vcproj
+END
+StatusGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/StatusGraph.cpp
+END
+Psplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/Psplugin.h
+END
+WorkerThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/WorkerThread.h
+END
+TraceStreamBuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/TraceStreamBuf.cpp
+END
+StatusGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/StatusGraph.h
+END
+WaterHeaterClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/WaterHeaterClient.cpp
+END
+TraceStreamBuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/TraceStreamBuf.h
+END
+MBoxStreamBuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/MBoxStreamBuf.cpp
+END
+StringStreamBuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/StringStreamBuf.cpp
+END
+WaterHeaterClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/WaterHeaterClient.h
+END
+PSAutomate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/PSAutomate.cpp
+END
+MBoxStreamBuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/MBoxStreamBuf.h
+END
+Histogram2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/Histogram2D.cpp
+END
+StringStreamBuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/StringStreamBuf.h
+END
+wmdefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/wmdefines.h
+END
+PSAutomate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/PSAutomate.h
+END
+Histogram2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/Histogram2D.h
+END
+Stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/Stdafx.cpp
+END
+RoutedIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/RoutedIO.cpp
+END
+ArchiveStreamBuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/ArchiveStreamBuf.cpp
+END
+FolderDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libwin/FolderDialog.cpp
+END

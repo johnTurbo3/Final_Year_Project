@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder
+END
+lsb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder/lsb.cpp
+END
+direct_blockembedder.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder/direct_blockembedder.h
+END
+ssis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder/ssis.cpp
+END
+lsb.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder/lsb.h
+END
+qim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder/qim.cpp
+END
+ssis.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder/ssis.h
+END
+qim.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder/qim.h
+END
+direct_blockembedder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/embedder/direct_blockembedder.cpp
+END

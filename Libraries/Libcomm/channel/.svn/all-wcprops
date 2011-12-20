@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel
+END
+awgn.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/awgn.h
+END
+bsid2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/bsid2d.cpp
+END
+bsc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/bsc.cpp
+END
+bsid2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/bsid2d.h
+END
+bsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/bsc.h
+END
+lapgauss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/lapgauss.cpp
+END
+bsid-cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/bsid-cuda.cu
+END
+bsid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/bsid.cpp
+END
+laplacian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/laplacian.cpp
+END
+lapgauss.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/lapgauss.h
+END
+qsc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/qsc.cpp
+END
+bsid.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/bsid.h
+END
+laplacian.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/laplacian.h
+END
+qsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/qsc.h
+END
+awgn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/channel/awgn.cpp
+END

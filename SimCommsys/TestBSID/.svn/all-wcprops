@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestBSID
+END
+testbsid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestBSID/testbsid.cpp
+END
+TestBSID.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestBSID/TestBSID.vcproj
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestBSID/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestBSID/.cproject
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestBSID/Makefile
+END

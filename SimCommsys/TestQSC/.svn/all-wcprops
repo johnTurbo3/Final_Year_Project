@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestQSC
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestQSC/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestQSC/.cproject
+END
+testqsc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestQSC/testqsc.cpp
+END
+TestQSC.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestQSC/TestQSC.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestQSC/Makefile
+END

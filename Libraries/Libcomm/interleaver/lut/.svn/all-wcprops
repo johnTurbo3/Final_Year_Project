@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut
+END
+berrou.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/berrou.cpp
+END
+shift_lut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/shift_lut.cpp
+END
+helical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/helical.cpp
+END
+uniform_lut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/uniform_lut.cpp
+END
+berrou.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/berrou.h
+END
+shift_lut.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/shift_lut.h
+END
+helical.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/helical.h
+END
+rectangular.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/rectangular.cpp
+END
+rand_lut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/rand_lut.cpp
+END
+named_lut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/named_lut.cpp
+END
+uniform_lut.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/uniform_lut.h
+END
+rectangular.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/rectangular.h
+END
+rand_lut.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/rand_lut.h
+END
+named_lut.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/named_lut.h
+END
+flat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/flat.cpp
+END
+flat.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/interleaver/lut/flat.h
+END

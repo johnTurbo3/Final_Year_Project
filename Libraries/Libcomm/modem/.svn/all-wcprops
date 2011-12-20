@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem
+END
+informed_modulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/informed_modulator.h
+END
+dminner2-receiver-cuda.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/dminner2-receiver-cuda.h
+END
+lut_modulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/lut_modulator.h
+END
+direct_modem.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/direct_modem.h
+END
+dminner.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/dminner.h
+END
+dminner2-receiver.cu
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/dminner2-receiver.cu
+END
+direct_blockmodem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/direct_blockmodem.cpp
+END
+mpsk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/mpsk.cpp
+END
+direct_blockmodem.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/direct_blockmodem.h
+END
+dminner2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/dminner2.cpp
+END
+qam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/qam.cpp
+END
+mpsk.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/mpsk.h
+END
+dminner2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/dminner2d.cpp
+END
+dminner2.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/dminner2.h
+END
+qam.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/qam.h
+END
+dminner2-receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/dminner2-receiver.h
+END
+stream_modulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/stream_modulator.h
+END
+dminner2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/dminner2d.h
+END
+informed_modulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/informed_modulator.cpp
+END
+lut_modulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/lut_modulator.cpp
+END
+direct_modem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/direct_modem.cpp
+END
+dminner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/modem/dminner.cpp
+END

@@ -1,0 +1,46 @@
+commsys<sigspace>
+## Channel
+awgn
+## Modem
+mpsk
+# Alphabet size in symbols
+2
+## Mapper
+map_stipple<vector>
+# Stipple stride
+2
+## Codec
+turbo<double>
+# Version
+2
+# Encoder
+grscc<gf<1,0x3>>
+#: Generator matrix (k x n vectors)
+1	2
+3
+1	1	1
+	3
+1	0	1
+
+# Number of parallel sets
+2
+# Interleaver 0
+flat<double>
+# Interleaver size
+158
+# Interleaver 1
+helical<double>
+# Interleaver size
+158
+# Number of rows
+13
+# Number of cols
+12
+# Terminated?
+1
+# Circular?
+0
+# Parallel decoder?
+0
+# Number of iterations
+10

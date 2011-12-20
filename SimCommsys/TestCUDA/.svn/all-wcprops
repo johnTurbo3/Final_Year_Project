@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestCUDA
+END
+testcuda.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestCUDA/testcuda.h
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestCUDA/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestCUDA/.cproject
+END
+testcuda-cuda.cu
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestCUDA/testcuda-cuda.cu
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestCUDA/Makefile
+END
+testcuda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestCUDA/testcuda.cpp
+END
+TestCUDA.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/TestCUDA/TestCUDA.vcproj
+END

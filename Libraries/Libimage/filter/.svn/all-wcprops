@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter
+END
+variancefilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/variancefilter.cpp
+END
+awfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/awfilter.h
+END
+waveletfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/waveletfilter.h
+END
+variancefilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/variancefilter.h
+END
+limitfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/limitfilter.cpp
+END
+atmfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/atmfilter.cpp
+END
+limitfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/limitfilter.h
+END
+atmfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/atmfilter.h
+END
+awfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/awfilter.cpp
+END
+waveletfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libimage/filter/waveletfilter.cpp
+END

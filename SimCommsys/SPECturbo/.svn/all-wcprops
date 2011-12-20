@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/SPECturbo
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/SPECturbo/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/SPECturbo/.cproject
+END
+SPECturbo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/SPECturbo/SPECturbo.cpp
+END
+SPECturbo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/SPECturbo/SPECturbo.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/SimCommsys/SPECturbo/Makefile
+END

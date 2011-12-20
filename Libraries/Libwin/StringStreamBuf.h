@@ -1,0 +1,65 @@
+/*!
+ * \file
+ * 
+ * Copyright (c) 2010 Johann A. Briffa
+ * 
+ * This file is part of SimCommSys.
+ *
+ * SimCommSys is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * SimCommSys is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with SimCommSys.  If not, see <http://www.gnu.org/licenses/>.
+ * 
+ * \section svn Version Control
+ * - $Id: StringStreamBuf.h 4396 2010-12-09 09:56:06Z jabriffa $
+ */
+
+#ifndef __stringstream_h
+#define __stringstream_h
+
+#include <iostream>
+#include <ios>
+
+/*
+   \version 1.10 (6 Nov 2006)
+   - defined class and associated data within "libwin" namespace.
+   - removed pragma once directive, as this is unnecessary
+   - changed unique define to conform with that used in other libraries
+   - removed use of "using namespace std", replacing by tighter "using" statements as needed.
+*/
+
+namespace libwin {
+
+class CStringStreamBuf : public std::streambuf
+{
+protected:
+   CString *buffer;
+public:
+        CStringStreamBuf(CString *string);
+        virtual ~CStringStreamBuf();
+   int underflow();
+   int overflow(int nCh = EOF);
+};
+
+inline int CStringStreamBuf::underflow()
+   {
+   return EOF;
+   }
+
+inline int CStringStreamBuf::overflow(int nCh)
+   {
+   *buffer += (nCh == '\r') ? '\n' : char(nCh);
+   return 1;
+   };
+
+} // end namespace
+
+#endif

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper
+END
+map_interleaved.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper/map_interleaved.cpp
+END
+map_permuted.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper/map_permuted.cpp
+END
+map_stipple.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper/map_stipple.h
+END
+map_straight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper/map_straight.cpp
+END
+map_interleaved.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper/map_interleaved.h
+END
+map_permuted.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper/map_permuted.h
+END
+map_straight.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper/map_straight.h
+END
+map_stipple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/mapper/map_stipple.cpp
+END

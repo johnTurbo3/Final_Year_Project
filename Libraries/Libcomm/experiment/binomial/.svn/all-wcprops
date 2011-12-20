@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial
+END
+commsys_simulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/commsys_simulator.h
+END
+commsys_stream_simulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/commsys_stream_simulator.cpp
+END
+commsys_threshold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/commsys_threshold.cpp
+END
+commsys_simulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/commsys_simulator.cpp
+END
+commsys_stream_simulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/commsys_stream_simulator.h
+END
+commsys_threshold.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/experiment/binomial/commsys_threshold.h
+END

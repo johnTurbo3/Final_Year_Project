@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda
+END
+alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/alloc.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/stream.h
+END
+value.cu
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/value.cu
+END
+gputimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/gputimer.h
+END
+util.cu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/util.cu
+END
+cuda_assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/cuda_assert.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/vector.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/matrix.h
+END
+sharedmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/sharedmem.h
+END
+value.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/value.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/util.h
+END
+cuda_assert.cu
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/cuda_assert.cu
+END
+vector.cu
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/vector.cu
+END
+bitfield.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/bitfield.h
+END
+matrix.cu
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libbase/cuda/matrix.cu
+END

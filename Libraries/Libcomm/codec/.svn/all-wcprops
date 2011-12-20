@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec
+END
+codec_softout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/codec_softout.cpp
+END
+turbo.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/turbo.h
+END
+sysrepacc.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/sysrepacc.h
+END
+repacc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/repacc.h
+END
+codec_softout.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/codec_softout.h
+END
+uncoded.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/uncoded.cpp
+END
+ldpc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/ldpc.cpp
+END
+mapcc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/mapcc.cpp
+END
+reedsolomon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/reedsolomon.cpp
+END
+uncoded.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/uncoded.h
+END
+ldpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/ldpc.h
+END
+mapcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/mapcc.h
+END
+codec_reshaped.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/codec_reshaped.cpp
+END
+turbo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/turbo.cpp
+END
+reedsolomon.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/reedsolomon.h
+END
+codec_softout_flattened.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/codec_softout_flattened.h
+END
+sysrepacc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/sysrepacc.cpp
+END
+repacc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/repacc.cpp
+END
+codec_reshaped.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/shared/!svn/ver/6279/Programming/branches/flynn/Libraries/Libcomm/codec/codec_reshaped.h
+END
